@@ -1,6 +1,6 @@
 ## Introduction
 
-The SlicerWorkshop@IGCNC aims at introducing clinicians and scientists of the Clermont Auvergne University community to the 3D Slicer platform for translational research.
+The SlicerWorkshop@IGCNC aims at introducing clinicians and scientists of the Clermont Auvergne University community to the 3D Slicer platform for translational research in medical image computing and image-guided therapy.
 
 ## Course Instructor
 Sonia Pujol, PhD
@@ -9,7 +9,7 @@ Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical 
 
 ## Workshop Agenda
 - 9:00:9:15: Opening Remarks 
-- 9:15:9:45: 3D Slicer: General Introduction
+- 9:15:9:45: 3D Slicer: History and General Introduction
 - 9:45:10:15: Clinical Research Applications
 - 10:15-10:30: Coffee break
 - 10:30-12:00: Hands-on session 1: Data Loading and 3D Visualization 
