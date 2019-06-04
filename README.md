@@ -1,0 +1,1 @@
+# SlicerTrainingWorkshop-IGCNC
