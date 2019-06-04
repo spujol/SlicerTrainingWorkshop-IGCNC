@@ -1,6 +1,6 @@
 ## Introduction
 
-The SlicerWorkshop@IGCNC aims at introducing clinicians and scientists of the Clermont Ferrand Auvergne University community to the 3D Slicer platform for translational research.
+The SlicerWorkshop@IGCNC aims at introducing clinicians and scientists of the Clermont Auvergne University community to the 3D Slicer platform for translational research.
 
 ## Course Instructor
 Sonia Pujol, PhD
