@@ -10,9 +10,9 @@ Sonia Pujol, PhD, Director, 3D Slicer Training and Education
 - 9:15:9:45: 3D Slicer: History and General Introduction
 - 9:45:10:15: Clinical Research Applications
 - 10:15-10:30: Coffee break
-- 10:30-12:00: Hands-on session 1: Data Loading and 3D Visualization 
+- 10:30-12:00: Hands-on session 1: DICOM Data Loading and 3D Visualization 
 - 12:00-13:00: Lunch break 
-- 13:00-13:45: Hands-on session 2: Image Registration 
+- 13:00-13:45: Hands-on session 2: Basics of Medical Image Processing
 - 13:45-15:00: Hands-on session 3: Brain Mapping
 - 15:00-15:15: Coffee break
 - 15:15-15:45: Slicer@IGCNC
