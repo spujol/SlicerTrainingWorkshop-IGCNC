@@ -3,9 +3,7 @@
 The SlicerWorkshop@IGCNC aims at introducing clinicians and scientists of the Clermont Auvergne University community to the 3D Slicer platform for translational research in medical image computing and image-guided therapy.
 
 ## Course Instructor
-Sonia Pujol, PhD
-Director of Training and Education of the 3D Slicer software platform
-Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
+Sonia Pujol, PhD, Director, 3D Slicer Training and Education
 
 ## Workshop Agenda
 - 9:00:9:15: Opening Remarks 
