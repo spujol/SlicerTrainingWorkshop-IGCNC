@@ -1,6 +1,6 @@
 ## Introduction
 
-The SlicerWorkshop@IGCNC aims at introducing clinicians and scientists of the Clermont Auvergne University community to the 3D Slicer platform for translational research in medical image computing and image-guided therapy.
+The SlicerWorkshop@IGCNC aims at introducing clinicians and scientists of the Institut Pascal of Clermont Auvergne University to the 3D Slicer platform for translational research in medical image computing and image-guided therapy.
 
 ## Course Instructor
 Sonia Pujol, PhD, Director of 3D Slicer Training and Education
