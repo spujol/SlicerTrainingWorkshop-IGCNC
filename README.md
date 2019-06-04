@@ -18,6 +18,9 @@ Sonia Pujol, PhD, Director of 3D Slicer Training and Education
 - 15:15-15:45: Slicer@IGCNC
 - 15:45-16:00: Discussion and Concluding Remarks
 
+## Software
+[Slicer 4.10.2 Stable Release Version rev. 28257](https://download.slicer.org/)
+
 ## Tutorial Datasets
 [Dataset #1: 3D Visualization DICOM](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=0)
 
