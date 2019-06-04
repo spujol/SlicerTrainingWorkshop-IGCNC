@@ -3,7 +3,7 @@
 The SlicerWorkshop@IGCNC aims at introducing clinicians and scientists of the Clermont Auvergne University community to the 3D Slicer platform for translational research in medical image computing and image-guided therapy.
 
 ## Course Instructor
-Sonia Pujol, PhD, Director, 3D Slicer Training and Education
+Sonia Pujol, PhD, Director of 3D Slicer Training and Education
 
 ## Workshop Agenda
 - 9:00:9:15: Opening Remarks 
@@ -12,7 +12,7 @@ Sonia Pujol, PhD, Director, 3D Slicer Training and Education
 - 10:15-10:30: Coffee break
 - 10:30-12:00: Hands-on session 1: DICOM Data Loading and 3D Visualization 
 - 12:00-13:00: Lunch break 
-- 13:00-13:45: Hands-on session 2: Segmentation
+- 13:00-13:45: Hands-on session 2: Image Segmentation
 - 13:45-15:00: Hands-on session 3: White Matter Mapping
 - 15:00-15:15: Coffee break
 - 15:15-15:45: Slicer@IGCNC
@@ -20,7 +20,10 @@ Sonia Pujol, PhD, Director, 3D Slicer Training and Education
 
 ## Tutorial Datasets
 [Dataset #1: 3D Visualization DICOM](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=0)
-[Dataset #2: Segmentation](https://www.dropbox.com/s/hdlduw6oqnf2n72/Meningioma.nrrd?dl=0)
-[Datset #3: Brain Mapping](https://www.dropbox.com/s/xyux3pjbzvmibog/WhiteMatterExplorationData.zip?dl=0
 
+[Dataset #2: Segmentation](https://www.dropbox.com/s/hdlduw6oqnf2n72/Meningioma.nrrd?dl=0)
+
+[Dataset #3: Brain Mapping](https://www.dropbox.com/s/xyux3pjbzvmibog/WhiteMatterExplorationData.zip?dl=0)
+
+## Workshop Registration
 To register to the event, please fill in the [Slicer@IGCNC Registration Form](https://forms.gle/whudQWaGw98EaXE3A) 
